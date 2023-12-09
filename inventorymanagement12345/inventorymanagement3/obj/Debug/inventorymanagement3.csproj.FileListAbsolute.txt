@@ -1,0 +1,17 @@
+C:\Users\Chris\Source\Repos\inventorymanagement12345\inventorymanagement3\obj\Debug\inventorymanagement3.csproj.AssemblyReference.cache
+C:\Users\Chris\Source\Repos\inventorymanagement12345\inventorymanagement3\obj\Debug\inventorymanagement3.inventory.resources
+C:\Users\Chris\Source\Repos\inventorymanagement12345\inventorymanagement3\obj\Debug\inventorymanagement3.login.resources
+C:\Users\Chris\Source\Repos\inventorymanagement12345\inventorymanagement3\obj\Debug\inventorymanagement3.sign.resources
+C:\Users\Chris\Source\Repos\inventorymanagement12345\inventorymanagement3\obj\Debug\inventorymanagement3.Properties.Resources.resources
+C:\Users\Chris\Source\Repos\inventorymanagement12345\inventorymanagement3\obj\Debug\inventorymanagement3.csproj.GenerateResource.cache
+C:\Users\Chris\Source\Repos\inventorymanagement12345\inventorymanagement3\obj\Debug\inventorymanagement3.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Source\Repos\inventorymanagement12345\inventorymanagement3\bin\Debug\inventorymanagement3.exe.config
+C:\Users\Chris\Source\Repos\inventorymanagement12345\inventorymanagement3\bin\Debug\inventorymanagement3.exe
+C:\Users\Chris\Source\Repos\inventorymanagement12345\inventorymanagement3\bin\Debug\inventorymanagement3.pdb
+C:\Users\Chris\Source\Repos\inventorymanagement12345\inventorymanagement3\obj\Debug\inventorymanagement3.exe
+C:\Users\Chris\Source\Repos\inventorymanagement12345\inventorymanagement3\obj\Debug\inventorymanagement3.pdb
+C:\Users\Chris\Source\Repos\inventorymanagement12345\inventorymanagement3\obj\Debug\inventorymanagement3.items.resources
+C:\Users\Chris\Source\Repos\inventorymanagement12345\inventorymanagement3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Chris\Source\Repos\inventorymanagement12345\inventorymanagement3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Chris\Source\Repos\inventorymanagement12345\inventorymanagement3\obj\Debug\inventorymanagement3.csproj.CopyComplete
+C:\Users\Chris\Source\Repos\inventorymanagement12345\inventorymanagement3\obj\Debug\inventorymanagement3.sales.resources

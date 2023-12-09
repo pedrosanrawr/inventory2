@@ -1,0 +1,34 @@
+[
+  {
+    "ItemNumber": "0001",
+    "ItemName": "Milk",
+    "ManufacturingCost": 45.0,
+    "Quantity": 54,
+    "TotalPrice": 2430.0,
+    "UserIdentifier": null
+  },
+  {
+    "ItemNumber": "0001",
+    "ItemName": "Butter",
+    "ManufacturingCost": 54.0,
+    "Quantity": 45,
+    "TotalPrice": 2430.0,
+    "UserIdentifier": null
+  },
+  {
+    "ItemNumber": "0001",
+    "ItemName": "Bread",
+    "ManufacturingCost": 54.0,
+    "Quantity": 45,
+    "TotalPrice": 2430.0,
+    "UserIdentifier": null
+  },
+  {
+    "ItemNumber": "0001",
+    "ItemName": "Butter",
+    "ManufacturingCost": 54.0,
+    "Quantity": 45,
+    "TotalPrice": 2430.0,
+    "UserIdentifier": null
+  }
+]
